@@ -4,14 +4,12 @@
   <img width="100" src="/0xfl0k1.jpg" alt="Profile Picture" />
 </div>
 
----
 
 <div align="center">
   <h1 align="center">0xfl0k1</h1>
   <p align="center">Penetration Tester | eCPPT | DCPT</p>
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xfl0k1&show_icons=true&theme=tokyonight&hide_border=true" />
