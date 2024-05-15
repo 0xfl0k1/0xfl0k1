@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <h1 align="center">0xfl0k1!</h1>
-  <p align="center">Penetration Tester | eCPPT e DCPT</p>
+  <h1 align="center">0xfl0k1</h1>
+  <p align="center">Penetration Tester | eCPPT | DCPT</p>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-## 💬 Contato
+## 💬 Contact
 - **Email**: [lucadjunior@gmail.com](lucadjunior@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://www.linkedin.com/in/luucaasjr/)
 
