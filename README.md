@@ -2,7 +2,7 @@
   <h3 align="center">Pentester</h3>
 </div>
 <div align="center">
-  <img width="100" src="/0xfl0ki.png"
+  <img width="100" src="/0xfl0ki.jpg"
 </div>
 
 
