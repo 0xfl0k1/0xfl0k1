@@ -24,8 +24,8 @@
 ---
 
 ## 💬 Contato
-- **Email**: [email@example.com](lucadjunior@gmail.com)
-- **LinkedIn**: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luucaasjr/)
+- **Email**: [lucadjunior@gmail.com](mailto:email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://linkedin.com/in/seu-linkedin)
 
 
 
