@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 <div align="center">
-  <img width="100" src="/0xfl0ki.jpg" alt="Profile Picture" />
+  <img width="100" src="/fl0ki.png" alt="Profile Picture" />
 </div>
 
 ---
@@ -24,8 +24,8 @@
 ---
 
 ## 💬 Contato
-- **Email**: [lucadjunior@gmail.com](mailto:email@example.com)
-- **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://linkedin.com/in/seu-linkedin)
+- **Email**: [lucadjunior@gmail.com](lucadjunior@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://www.linkedin.com/in/luucaasjr/)
 
 
 
