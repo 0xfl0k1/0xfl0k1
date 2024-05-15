@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <h1 align="center">Olá, eu sou o 0xfl0k1!</h1>
-  <p align="center">Pentester com certificações eCPPT e DCPT</p>
+  <h1 align="center">0xfl0k1!</h1>
+  <p align="center">Penetration Tester | eCPPT e DCPT</p>
 </div>
 
 ---
@@ -22,10 +22,6 @@
 </div>
 
 ---
-
-## 📝 Certificações
-- **eCPPT**
-- **DCPT**
 
 ## 💬 Contato
 - **Email**: [email@example.com](lucadjunior@gmail.com)
