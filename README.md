@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1 align="center">0xfl0k1</h1>
-  <p align="center">Penetration Tester | eCPPT | DCPT</p>
+  <p align="center">Penetration Tester | CEH | eCPPT | DCPT</p>
 </div>
 
 
