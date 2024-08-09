@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1 align="center">0xfl0k1</h1>
-  <p align="center">Offensive Security Specialist eWPTX | eCPPT | DCPT | CEH</p>
+  <p align="center">Offensive Security Specialist | eWPTX | eCPPT | DCPT | CEH</p>
 </div>
 
 
