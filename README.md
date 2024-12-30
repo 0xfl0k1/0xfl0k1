@@ -23,7 +23,7 @@
 
 ## 💬 Contact
 - **Email**: [lucadjunior@gmail.com](lucadjunior@gmail.com)
-- **Blog**: [https://lucasferreirajr.com.br/](https://lucasferreirajr.com.br/)
+- **Blog**: [https://www.lucasferreirajr.com.br/](https://www.lucasferreirajr.com.br/)
 - **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://www.linkedin.com/in/luucaasjr/)
 
 
