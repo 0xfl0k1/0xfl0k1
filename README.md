@@ -1,22 +1,22 @@
 <div align="center">
 </div>
 <div align="center">
-  <img width="100" src="/0xfl0k1.jpg" alt="Profile Picture" />
+  <img width="100" src="0xp1r4t4.jpg" alt="Profile Picture" />
 </div>
 
 
 <div align="center">
-  <h1 align="center">0xfl0k1</h1>
+  <h1 align="center">p1r4t4</h1>
   <p align="center">Offensive Security Specialist | eWPTX | eCPPT | DCPT | CEH</p>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xfl0k1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xp1r4t4&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xfl0k1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xp1r4t4&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
