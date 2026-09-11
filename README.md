@@ -6,7 +6,7 @@
 <div align="center">
   <h1 align="center">p1r4t4</h1>
   <p align="center">Senior Offensive Security Analyst | Master’s Degree in Cybersecurity | AI Security Researcher</p>
-  <p align="center">eWPTX | eCPPT | eMAPT | DCPT | CEH</p>
+  <p align="center">eMAPT | eWPTX | eCPPT | DCPT | CEH</p>
 </div>
 
 ---
