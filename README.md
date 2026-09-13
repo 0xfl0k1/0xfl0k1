@@ -13,5 +13,4 @@
 
 ## 💬 Contact
 - **Email**: [lucadjunior@gmail.com](mailto:lucadjunior@gmail.com)
-- **Blog**: [https://www.lucasferreirajr.com.br/](https://www.lucasferreirajr.com.br/)
 - **LinkedIn**: [https://www.linkedin.com/in/luucaasjr/](https://www.linkedin.com/in/luucaasjr/)
